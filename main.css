@@ -1,0 +1,51 @@
+
+
+/* text alignment for the page */
+
+h1 {
+  text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+
+a {
+	text-align: center;
+}
+
+
+div {
+  width: 500px;
+  margin: auto;
+  padding: 5px;
+  border: 3px solid blue;
+}
+
+body {
+  background-color: lightgrey;
+  color: blue;
+}
+
+/* sets parameters for image size*/
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+/* this makes a shadow box around my image link */
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+
+
+
